@@ -1,0 +1,124 @@
+@font-face {
+    font-family: "cropp";
+    src: url();
+}
+
+
+*{
+    margin: 0;
+    padding:0 ;
+    box-sizing: border-box;
+}
+body{
+    background: #1a1a1a;
+}
+html{
+    scroll-behavior: smooth;
+}
+header{
+    background: #000;
+    width: 100%;
+    height: 15vh;
+    color: aliceblue;
+}
+
+.logo{
+    position: absolute;
+    left: 38%;
+    width: 350px;
+    height: 15vh;
+}
+
+nav{
+    width: 100%;
+    background: #2e2e2e;
+    color: aliceblue;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom:20px ;
+}
+nav ol{
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+nav ol li{
+    display: block;
+    display: inline-block;
+    font-size: 30px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.col1{
+    width: 30%;
+    height: 70vh;
+    background-image: url("img/bluza.jpg");
+    background-size: cover;
+    
+    
+    
+    color: aliceblue;
+    -webkit-box-reflect: below 1px linear-gradient(transparent,transparent,#0004);
+}
+.col2{
+    width: 30%;
+    height: 70vh;
+    background-image: url("img/bluza2.jpg");
+    background-size: cover;
+
+    color: aliceblue;
+    -webkit-box-reflect: below 2px linear-gradient(transparent,transparent,#0004);
+}
+.col3{
+    width: 30%;
+    height: 70vh;
+    background-image: url("img/bluza3.jpg");
+    background-size: cover;
+    border: 2px solid white;
+
+    color: aliceblue;
+    -webkit-box-reflect: below 1px linear-gradient(transparent,transparent,#0004);
+}
+
+
+
+
+
+
+
+
+.offer{
+    display: flex;
+    margin-top: 500px;
+    background: #FFF;
+    height: 80px;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+footer{
+    margin-top: 500px;
+    clear: both;
+    height: 300px;
+    color: gray;
+    
+}
+footer p{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
