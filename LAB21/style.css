@@ -1,0 +1,140 @@
+@font-face {
+    font-family: "Cyber";
+    src: url("https://assets.codepen.io/605876/Blender-Pro-Bold.otf");
+    font-display: swap;
+  }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-image: url("img/tlo.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+nav{
+    width: 100%;
+    height: 10vh;
+    background: #FFF;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+nav ol li{
+    display: inline-block;
+    margin: 30px;
+    font-size: 1.5em;
+    padding:auto ;
+    
+}
+a{
+    text-decoration: none;
+    font-family: "cyber";
+}
+a:any-link{
+    color: black;
+}
+.colorline {
+    width: 100%;
+    height: 5px;
+    background: rgb(103, 53, 136);
+    background: linear-gradient(
+      90deg,
+      rgba(0, 247, 255, 1) 0%,
+      rgba(255, 0, 204, 1) 100%
+    );
+    animation: colorchange 5s linear infinite;
+    box-shadow: 0 5px 40px;
+    margin-left: 0px;
+    margin-right: 00px;
+  }
+  @keyframes colorchange {
+    0%,
+    100% {
+      filter: hue-rotate(0deg);
+    }
+    50% {
+      filter: hue-rotate(90deg);
+    }
+  }
+
+  .colorline1 {
+    width: 100%;
+    height: 5px;
+    background: rgb(103, 53, 136);
+    background: linear-gradient(
+      90deg,
+      rgba(0, 247, 255, 1) 0%,
+      rgba(255, 0, 204, 1) 100%
+    );
+    animation: colorchange1 5s linear infinite;
+    box-shadow: 0 5px 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 0px;
+    margin-right: 00px;
+  }
+  @keyframes colorchange1 {
+    0%,
+    100% {
+      filter: hue-rotate(0deg);
+    }
+    50% {
+      filter: hue-rotate(90deg);
+    }
+  }
+
+
+header h1{
+    font-size: 85px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    color:blue;
+    font-family:"cyber";
+}
+
+div{
+    background-attachment: scroll;
+    background: #FFF;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius:0px 40px 0 0 ;
+}
+
+
+h2{
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: "cyber";
+    font-size: 40px;
+}
+p{
+    margin-left: 5%;
+    margin-right: 10%;
+    font-size: 20px;
+    text-indent:5px;
+    text-shadow: 1px 1px 10px #03f8fc;
+    word-spacing: 2px;
+    text-overflow: initial;
+    text-justify: auto;
+}
+
+ul li{
+    margin-left: 10%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+footer{
+    height: 300px;
+    text-align: center;
+}
