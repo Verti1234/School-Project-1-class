@@ -1,0 +1,20 @@
+Wzorując się na przykładach umieszczonych na stronie:
+https://www.kurshtml.edu.pl/css/szablon.html
+
+1. Przygotuj własny szablon strony internetowej zawierajacy 5 elementowe poziome menu.
+
+2. Nadaj mu atrakcyjny wyglad (czcionka, tło, kolory, przyciski, baner itp.). 
+
+3. Podziel go na 4 sekcje: header, nav, section i footer
+
+4. Szablon przygotuj dla trzech kolumn
+
+5. Wykonaj dwie wersje szablonu Stały, Płynny
+
+Na celujący:
+Wykonaj dodatkowo szablon w wersji Responsywnej
+
+
+
+
+
