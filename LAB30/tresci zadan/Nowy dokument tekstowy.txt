@@ -1,0 +1,12 @@
+Przygotuj strone internetowa, na ktorej zaprezentujesz osiagniecia 
+piłkarzy grających w piłkę nożną.
+
+Strona ma być wykonana na bazie szablonu płynnego dwukolumnowego.
+W zadaniu mozesz wykorzystac przykładowy kod ze strony:
+https://www.kurshtml.edu.pl/css/plynny_szablon,szablon.html
+
+Zastosuj pionowe menu nawigacyjne (pierwsza kolumna)
+Tresc strony umieszczamy w drugiej kolumnie
+
+Zadanie wykonaj tak, aby blok treści strony dopasowywał się do rozmiarów okna przeglądarki,
+ a kolumne nawigacyjna zawsze pozostawiaj stala niezaleznie od zmiany rozmiaru okna przeglądarki lub rozdzielczości ekranu.,
