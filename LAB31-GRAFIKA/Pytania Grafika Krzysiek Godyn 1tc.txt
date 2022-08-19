@@ -1,0 +1,37 @@
+﻿1. Jakie mamy dwa podstawowe rodzaje grafiki komputerowej?
+> 2
+
+2. Charakterystyka grafiki wektorowej
+> jest zapisywana za pomoca algorytmów marematycznych
+
+3. Trzy najwazniejsze formaty grafiki wektorowej
+> SVG,SWF,DWF
+
+4. Popularne programy komercyjne i darmowe do tworzenia grafiki wektorowej:
+> darmowy INKSCAPE, adobe ilustrator ,coreldraw,Sketch
+
+5. Do czego stosujemy grafike wektorowa?
+> np do animacji na stronie
+
+6. Charakterystyka programu INKSCAPE
+> posiada narzędzia i linijki charakterystrczne dla grafiki wektorowej
+
+7.  Charakterystyka grafiki rastrowej
+> grafika zapisywana za pomoca pixeli w przyblizeniu je widac
+
+8. Czym jest bitmapa
+> obszar zapisu pixeli
+
+9. Jak wpływa rozmiar obrazka na jakość obrazu (ostrość) w grafice rastrowej, a jak w wektorowej?
+> w wektorwej nie wplywa a w grafice rastrowej wplywa w sposób rozpixelownia przy przybliżeniu
+10. Popularne programy komercyjne i darmowe do tworzenia grafiki rastrowej:
+> darmowe gimp
+
+adobe photoshop
+Paint Shop Pro
+Pixel
+
+
+
+
+
